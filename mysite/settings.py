@@ -25,7 +25,7 @@ SECRET_KEY = '=-idk$sz5%1asfil!d(31pqsv*17+fg-+)5r&lq03)o5^ataqd'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'kusst.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'kusst.pythonanywhere.com, ']
 
 
 # Application definition
